@@ -1,2 +1,2 @@
-# brah
-so this is what README.md shows
+# Sketchmachine's First Blog
+Looking forward to the future. 
