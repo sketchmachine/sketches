@@ -3,7 +3,7 @@ layout: default
 title: Landing Page
 ---
 
-# Welcome to my Sketches
+# Sketches by Sketchmachine
 
 Here are my latest posts:
 
