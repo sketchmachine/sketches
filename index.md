@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Landing Page
+title: sketchbook
 ---
 
-# Sketches by Sketchmachine
+# sketches by sketchmachine
 
 Here are my latest posts:
 
