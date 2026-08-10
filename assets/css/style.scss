@@ -1,0 +1,13 @@
+---
+---
+@import "{{ site.theme }}";
+
+.site-title,
+.site-title:visited {
+  color: darkred !important;
+}
+
+.post-list a,
+.post-link {
+  color: darkred !important;
+}
